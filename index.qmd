@@ -1,0 +1,41 @@
+---
+title: "Javier Bravo Bernal"
+
+engine: knitr
+---
+**LinkedIn:** [linkedin.com/in/jalfred2598](https://www.linkedin.com/in/jalfred2598)
+
+
+I am a **Mechatronics Engineer** currently pursuing a Master of Science in Business Analytics (STEM). My work sits at the intersection of engineering and data, where I focus on improving systems, processes, and decision-making through structured analysis.
+
+My experience in engineering, combined with training in SQL, Python, statistical modeling, and machine learning, allows me to approach problems with both technical depth and analytical rigor.
+
+This portfolio highlights projects where I apply data-driven methods to solve practical, real-world challenges.
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+if(!require("leaflet")){
+    options(repos=c(CRAN="https://cloud.r-project.org"))
+    install.packages("leaflet")
+    stopifnot(require("leaflet"))
+}
+
+baruch_longitude <- -73.98333
+baruch_latitude  <- +40.74028
+
+leaflet() |>
+  addTiles() |>
+  setView(baruch_longitude, baruch_latitude, zoom=17) |>
+  addPopups(baruch_longitude, baruch_latitude, 
+            "I am a Master's student at <b>Baruch College</b>!")
+```
+
+```{r}
+#| include: false
+1+1
+```
+--------------
+Last Updated: `r format(Sys.time(), "%A %m %d, %Y at %H:%M%p")`
