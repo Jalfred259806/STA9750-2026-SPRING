@@ -12,6 +12,10 @@ My experience in engineering, combined with training in SQL, Python, statistical
 
 This portfolio highlights projects where I apply data-driven methods to solve practical, real-world challenges.
 
+**My Resume:** 
+
+[Download Resume](resume.pdf){.btn .btn-primary}
+
 ```{r}
 #| echo: false
 #| message: false
