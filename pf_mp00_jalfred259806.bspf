@@ -1,0 +1,37 @@
+peer_feedback_assignment_1:
+  issue_number: 8
+  issue_owner: maryononye
+  issue_ok: yes
+  issue_status: OK
+  overall_comments:
+    positive: the use of pictures in the bio
+    negative: organizing better the sentences and giving more format
+    advice: play with the widht and lenght of the image
+  scores: []
+  mp_number: 0
+peer_feedback_assignment_2:
+  issue_number: 12
+  issue_owner: carmine-montaperto
+  issue_ok: yes
+  issue_status: OK
+  overall_comments:
+    positive: the code has comments on everything
+    negative: The title could be replaced with the name and give more links like resume,
+      linkedIN
+    advice: include as text the resume or some skills related textbox or put a link
+      to linkedIN, give more format to the text and titles.
+  scores: []
+  mp_number: 0
+peer_feedback_assignment_3:
+  issue_number: 14
+  issue_owner: tommynelson1097
+  issue_ok: yes
+  issue_status: OK
+  overall_comments:
+    positive: Has different colors for the text that is interesting
+    negative: put more links
+    advice: put docs or links in the github repo, and call the link with brackets
+  scores: []
+  mp_number: 0
+evaluator: jalfred259806
+
