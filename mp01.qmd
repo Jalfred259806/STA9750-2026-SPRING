@@ -3,7 +3,7 @@
 **the Mini-Project instructions. Your document must start the `---` below**
 ---
 title: "Mini-Project 01 - Assessing the Impact of SFFA on Campus Diversity One-Year Later"
-author: "Jalfred259806"
+author: "jalfred259806"
 editor:
     mode: source
 format:
@@ -50,7 +50,7 @@ Code related to the final deliverable of the assignment goes here.
 
 ------------------------------------------------------------------------
 
-This work ©2025 by Jalfred259806 was initially prepared as a Mini-Project for
+This work ©2025 by jalfred259806 was initially prepared as a Mini-Project for
 STA 9750 at Baruch College. More details about this course can be found at
 [the course site](https://michael-weylandt.com/STA9750) and instructions for
 this assignment can be found at 
