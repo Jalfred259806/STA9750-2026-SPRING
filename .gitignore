@@ -21,3 +21,4 @@ data/**
 **/gganim*
 /.quarto/
 **/*.quarto_ipynb
+credit_risk_XGboost_python.qmd
