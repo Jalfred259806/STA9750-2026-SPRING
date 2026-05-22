@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Jalfred259806.github.io/STA9750-2026-SPRING/index.html</loc>
-    <lastmod>2026-02-16T00:23:33.554Z</lastmod>
-  </url>
-  <url>
     <loc>https://Jalfred259806.github.io/STA9750-2026-SPRING/mp01.html</loc>
     <lastmod>2026-03-14T03:22:06.499Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Jalfred259806.github.io/STA9750-2026-SPRING/mp03.html</loc>
+    <lastmod>2026-04-25T03:29:28.098Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Jalfred259806.github.io/STA9750-2026-SPRING/index.html</loc>
+    <lastmod>2026-02-16T00:23:33.554Z</lastmod>
   </url>
   <url>
     <loc>https://Jalfred259806.github.io/STA9750-2026-SPRING/mp02.html</loc>
     <lastmod>2026-04-04T02:32:24.140Z</lastmod>
   </url>
   <url>
-    <loc>https://Jalfred259806.github.io/STA9750-2026-SPRING/credit_risk_XGboost_python.html</loc>
-    <lastmod>2026-03-27T00:46:28.720Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Jalfred259806.github.io/STA9750-2026-SPRING/mp03.html</loc>
-    <lastmod>2026-04-25T03:29:28.098Z</lastmod>
+    <loc>https://Jalfred259806.github.io/STA9750-2026-SPRING/individual_report_9.html</loc>
+    <lastmod>2026-05-22T01:15:06.319Z</lastmod>
   </url>
 </urlset>
